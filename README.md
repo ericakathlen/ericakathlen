@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá! Eu me chamo Erica Kathlen
 
-<!--
-**ericakathlen/ericakathlen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou trabalhando em um projeto de Sistema de Saúde para os servidores públicos da minha faculdade para a disciplina Programação Orientada a Objeto
+- 🌱 Aprendendo Java e C
+- 🐸 Quero me tornar uma desenvolvedora FullStack
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://gmail.com/kathlen.erica" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/ericakathlen" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/erica-kathlen-de-andrade-dos-santos-961086231" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href= "https://br.pinterest.com/ericakathlen" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"_blank"></a>
+  
+</div>
