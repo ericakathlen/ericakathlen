@@ -1,8 +1,8 @@
-### Olá! Eu me chamo Erica Kathlen
+### Hey, I'm Erica Kathlen!.
 
-- 🔭 Estou trabalhando em um projeto de Sistema de Saúde para os servidores públicos da minha faculdade para a disciplina Programação Orientada a Objeto
-- 🌱 Aprendendo Java e C
-- 🐸 Quero me tornar uma desenvolvedora FullStack
+- 👩🏽‍💻 I'm working in a college project on Health Monitoring
+- 🌱 Learning Java & C
+- 🐸 I want to be a Back End Developer
 
 <div>
   <a href="mailto:kathlen.erica@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
