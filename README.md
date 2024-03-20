@@ -1,6 +1,6 @@
 ### Hey, I'm Erica Kathlen!.
 
-- 👩🏽‍💻 I'm working in a college project on Health Monitoring
+- 👩🏽‍💻 I'm working in a college project
 - 🌱 Learning Java & C
 - 🐸 I want to be a Back End Developer
 
