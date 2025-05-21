@@ -2,8 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FC7D9F&size=35&center=true&vCenter=true&width=1000&lines=Oie,+Me+chamo+Erica+Kathlen+🐸;Seja+bem+vindo(a)+ao+meu+perfil!)](https://git.io/typing-svg)
 <div>
-Sou iniciante na programação e atualmente estou criando bagagem de aprendizado. Aqui estarei disponibilizando alguns projetos acadêmicos e cursos que estarei realizando nessa jornada.
+Sou estudante de Ciência da Computação, focada em Desenvolvimento FullStack. Atualmente estou desenvolvendo projetos em React Native, JavaScript e TypeScript. Aqui estarei disponibilizando alguns projetos acadêmicos e cursos que estarei realizando nessa jornada.
 </div>
+
+### Projetos em destaque
+
+- [ImpetusApplication](https://github.com/ImpetusApplication) - Aplicativo de Saúde e bem-estar desenvolvido na Disciplina Engenharia de Software I
 
 ### Atividades
 <div>
@@ -14,7 +18,7 @@ Sou iniciante na programação e atualmente estou criando bagagem de aprendizado
 
 ### Skills
 <div>
-  <img align="center" alt="Eryn-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
+  <img align="center" alt="Eryn-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg">
   <img align="center" alt="Eryn-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   <img align="center" alt="Eryn-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Eryn-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
